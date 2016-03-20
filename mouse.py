@@ -1,5 +1,6 @@
 #-------------------------------------------------------------------------------
-# cc
+# by clvay
+#2016-3-21 路过留名。
 import win32gui, win32api, win32con
 import time
 import threading
